@@ -1,4 +1,4 @@
 # E-commerce-Olist-Store-Analysis-Project
 Olist Store Analysis Project
-![image](https://github.com/user-attachments/assets/62cfcbe0-7602-4aaa-9d79-3fa4bb797f17)
-![image](https://github.com/user-attachments/assets/376171ea-d69d-451c-bb85-cac5d110d295)
+![image](https://github.com/user-attachments/assets/849c678b-20ee-4113-8db1-e0a61dabcb00)
+![image](https://github.com/user-attachments/assets/4479f464-7547-4c65-b6be-b14f6bb6821d)
